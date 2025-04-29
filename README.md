@@ -12,13 +12,15 @@ Me chamo Vanessa Iris Nobre Ribas, tenho 19 anos e sou de Guarulhos - SP. Conclu
             title="Linkedin" 
            src="https://custom-icon-badges.demolab.com/github/followers/Vanessaribas?color=ffe000&style=for-the-badge&labelColor=ffe000&logo=star&label=Linkedin"
          
-            [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/](https://www.instagram.com/vanessairis10/)
-            [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-iris-nobre-ribas-23a53725b/)
+         
  
 </p>
 
----
 
+
+---
+[![Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/](https://www.instagram.com/vanessairis10/)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-iris-nobre-ribas-23a53725b/)
 ### 🤖 Linguagens e Tecnologias
 
 <img 

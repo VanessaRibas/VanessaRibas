@@ -6,11 +6,13 @@ Me chamo Vanessa Iris Nobre Ribas, tenho 19 anos e sou de Guarulhos - SP. Conclu
 
 
 <p align="left">
-    <a href="">
+    <a href="https://www.linkedin.com/in/vanessa-iris-nobre-ribas-23a53725b/">
         <img 
             alt="Seguir no Linkedin" 
             title="Linkedin" 
-           src="https://custom-icon-badges.demolab.com/github/stars/Vanessaribas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+           src="https://custom-icon-badges.demolab.com/github/stars/Vanessaribas?color=55960c&style=for-the-badge&labelColor=ecff33&logo=star&label=Linkedin"
+
+            
         />
  
 </p>

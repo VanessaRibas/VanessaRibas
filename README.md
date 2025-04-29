@@ -1,6 +1,6 @@
 ## Vanessa Ribas
 
-`Sou **Desenvolvedora FullStack** com foco em aplicações web e **Modeladora 3D** apaixonada por transformar ideias em experiências visuais e interativas.`
+**`Desenvolvedora FullStack & Artista 3D`**
 
 
 Me chamo Vanessa Iris Nobre Ribas, tenho 19 anos e sou de Guarulhos - SP. Concluí o ensino médio na Etec de Guarulhos, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Bachalelado em Engenharia da Computação na Fiap. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu Linkedin, Instagram e GitHub.

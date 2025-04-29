@@ -63,6 +63,14 @@ Me chamo Vanessa Iris Nobre Ribas, tenho 19 anos e sou de Guarulhos - SP. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-blender-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029884.png" 
+/>
 
 <br/>
 <br/>

@@ -13,7 +13,7 @@ Me chamo Vanessa Iris Nobre Ribas, tenho 19 anos e sou de Guarulhos - SP. Conclu
 ---
 
 
-### 🤖 Linguagens e Tecnologias
+### 🧩 Linguagens e Tecnologias
 
 <img 
     align="left" 
